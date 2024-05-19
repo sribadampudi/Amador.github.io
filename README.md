@@ -11,7 +11,7 @@
 _____________________________________________________________________________________________________________________________________________________________________________________
 <h3 align="right"><u>Founder</u><br>Anil lakkyreddy</br>Mobile: 925-216-8557<br>License #: 01895131</br>Email: anil.reddy.realtor@gmail.com</br>Meet with us: <a href="https://anilre.com">click here</a></h3>
 <style>
-        .menu-container {
+        menu-container {
             width: 100%;
             display: flex;
             justify-content: center;
