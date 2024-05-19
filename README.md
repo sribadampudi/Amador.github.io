@@ -1,9 +1,8 @@
-# Amador.github.io
 <html>
 <head>
 <body>
 <body style="background-color:LightGrey;">
-<h1 align="center"><font times new roman>6516 Amador Valley Boulevard, Dublin, CA, 94568</font></h1>
+<h1 align="center">times new roman>6516 Amador Valley Boulevard, Dublin, CA, 94568</h1>
 <div class="image-container">
 <img src="C:\srikanth CV\magnilogo.jpg" width=300 height=190 align="left"/>
 </div>
@@ -56,7 +55,7 @@ ________________________________________________________________________________
         </ul>
     </nav>
 </div>
-<h1>Welcome to<br>Bay Area Luxury brokerage</br>Magni realty</h1>
+<h1>Welcome to<br>Bay Area Luxury brokerage<br>Magni realty</h1>
 <h2><p>Magni Realty, under the leadership of Anil LakkyReddy, caters to a thriving clientele, including homeowners, potential buyers, landlords, investors, and developers. Committed to providing data-driven, transparent, and empathetic real estate guidance, our team stands out.</p></h2>
 <marquee direction="right"><img src="C:\srikanth CV\fish.gif" width=300 height=190/>
 </marquee>
