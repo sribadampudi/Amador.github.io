@@ -2,7 +2,7 @@
 <head>
 <body>
 <body style="background-color:LightGrey;">
-<h1 align="center">times new roman>6516 Amador Valley Boulevard, Dublin, CA, 94568</h1>
+<h1 align="center">6516 Amador Valley Boulevard, Dublin, CA, 94568</h1>
 <div class="image-container">
 <img src="C:\srikanth CV\magnilogo.jpg" width=300 height=190 align="left"/>
 </div>
