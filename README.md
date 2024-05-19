@@ -14,7 +14,7 @@ ________________________________________________________________________________
             width: 100%;
             display: flex;
             justify-content: center;
-            margin: 20px 0;
+            margin: 20px 0; 
         }
         nav {
             background-color: #333;
