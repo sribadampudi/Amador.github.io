@@ -1,11 +1,10 @@
+<html>
 <head>
 <body>
-<h1 align="center">6516 Amador Valley Boulevard, Dublin, CA, 94568</h1>
 <body style="background-color:LightGrey;">
-<div class="image-container">
+<h1 align="center"><font times new roman>6516 Amador Valley Boulevard, Dublin, CA, 94568</font></h1>
 <img src="C:\srikanth CV\magnilogo.jpg" width=300 height=190 align="left"/>
-</div>
-<div><img src="C:\srikanth CV\anil.jpg"width=200 height=200 align="right"/></div>
+<img src="C:\srikanth CV\anil.jpg"width=200 height=200 align="right"/>
 _____________________________________________________________________________________________________________________________________________________________________________________
 <h3 align="right"><u>Founder</u><br>Anil lakkyreddy</br>Mobile: 925-216-8557<br>License #: 01895131</br>Email: anil.reddy.realtor@gmail.com</br>Meet with us: <a href="https://anilre.com">click here</a></h3>
 <style>
@@ -13,7 +12,7 @@ ________________________________________________________________________________
             width: 100%;
             display: flex;
             justify-content: center;
-            margin: 20px 0; 
+            margin: 20px 0;
         }
         nav {
             background-color: #333;
@@ -54,7 +53,7 @@ ________________________________________________________________________________
         </ul>
     </nav>
 </div>
-<h1>Welcome to<br>Bay Area Luxury brokerage<br>Magni realty</h1>
+<h1>Welcome to<br>Bay Area Luxury brokerage</br>Magni realty</h1>
 <h2><p>Magni Realty, under the leadership of Anil LakkyReddy, caters to a thriving clientele, including homeowners, potential buyers, landlords, investors, and developers. Committed to providing data-driven, transparent, and empathetic real estate guidance, our team stands out.</p></h2>
 <marquee direction="right"><img src="C:\srikanth CV\fish.gif" width=300 height=190/>
 </marquee>
@@ -138,3 +137,6 @@ ________________________________________________________________________________
 </table>
 </body>
 </head>
+</html>
+    
+
